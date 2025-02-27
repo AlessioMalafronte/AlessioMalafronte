@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**AlessioMalafronte/AlessioMalafronte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ About Me  
+Hi there! I'm an **engineering student** at Federico II University in Naples, passionate about **computer science, cybersecurity, and technology**. I love exploring the world of **ethical hacking, networking, and software development**, always eager to learn and improve my skills.
 
-Here are some ideas to get you started:
+## 🚀 Interests & Passions  
+- 🔐 **Cybersecurity** – Ethical hacking, network security & CTF challenges  
+- 💻 **Programming** – Exploring different languages and frameworks  
+- 🏍️ **Motors & Cars** – Passionate about motorcycles, sports cars, and all things automotive  
+- ✈️ **Traveling** – Exploring new places, cultures, and adventures  
+- 📷 **Photography** – Capturing moments through my lens  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch  
+Feel free to reach out and connect with me! I'm always open to collaborations, discussions, and new opportunities in the world of **tech and cybersecurity**.  
+
+📩 **Email:** ilarialessio02@gmail.com
+🔗 **LinkedIn:** (https://www.linkedin.com/in/alessio-malafronte-7078401b1/) 
+
+Let's build and secure the future together! 🚀🔐  
+
