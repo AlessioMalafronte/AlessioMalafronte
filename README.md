@@ -16,5 +16,5 @@ Feel free to reach out and connect with me! I'm always open to collaborations, d
 📩 **Email:** ilarialessio02@gmail.com
 🔗 **LinkedIn:** (https://www.linkedin.com/in/alessio-malafronte-7078401b1/) 
 
-Let's build and secure the future together! 🚀🔐  
+
 
